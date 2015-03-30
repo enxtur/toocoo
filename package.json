@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/enxtur/toocoo/issues"
   },
-  "homepage": "https://github.com/enxtur/toocoo"
+  "homepage": "https://github.com/enxtur/toocoo",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
